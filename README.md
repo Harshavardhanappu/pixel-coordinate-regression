@@ -37,3 +37,13 @@ pip install torch numpy matplotlib
 How to Run
 
 Open the Jupyter Notebook and execute all cells sequentially.
+
+Training Loss vs Epochs
+<img width="726" height="470" alt="download" src="https://github.com/user-attachments/assets/49dae4fa-8d09-4f6c-b86f-5e919b0ce093" />
+
+
+Difference Between Predicted and Actual data.
+
+<img width="1450" height="305" alt="download" src="https://github.com/user-attachments/assets/ec4547a9-b4dd-4102-9ed3-7fa2d26b351b" />
+
+
